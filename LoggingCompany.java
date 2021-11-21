@@ -15,7 +15,7 @@ final class LoggingCompany {
     /**
     * Density of logs, in Km/m.
     */
-    public static final double DENSITY = 20.2;
+    public static final double DENSITY = 20;
 
     /**
     * Max truck load.
